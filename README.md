@@ -25,7 +25,6 @@ Email Me 👉 ✉️ **sardasabatds@gmail.com** For Collaboration/Project or Any
 - 😄 **Pronouns:** Sarda Sabat
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me 
 
-## 🔗 I am a Content Creator. 😊😊
 ---
 
 ### ⚡ About the Chaos Behind the Code
