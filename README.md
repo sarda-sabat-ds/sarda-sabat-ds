@@ -11,7 +11,7 @@
   <a href="mailto:sardasabatds@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-# 💫 Hi 👋, I'm Sarda Sabat
+# 💫 Hii 👋, I'm Sarda Sabat
 **A Data Science Student || Training models & debugging life decisions || Turning messy CSVs into clean insight**
 
 Email Me 👉 ✉️ **sardasabatds@gmail.com** For Collaboration/Project or Anything Else. 😊😊
